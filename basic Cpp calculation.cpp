@@ -12,14 +12,6 @@ int main ()
     cout << "8756 / 129 is " << 8756 / 129 << endl;
     cout << "8756 / 129.0 is " << 8756 / 129.0 << endl;
     
-    
-    /*
-     Homework 1
-     Author : Mohammad Rahgozar
-     Date : 09-27-21
-     Description : The first Homework for the class
-     
-     */
     return 0;
 }
 
